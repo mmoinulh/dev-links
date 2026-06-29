@@ -15,3 +15,6 @@ https://rclone.org/
 
 # html2pdf
 https://ekoopmans.github.io/html2pdf.js/
+
+# DevTools
+https://www.jstools.space/
