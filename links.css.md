@@ -68,14 +68,17 @@
 # test-gradient
 * https://www.cssportal.com/css-text-gradient-generator/
 
-# free customizable illustrations:
+# free customizable illustrations
 * https://storyset.com/
 * https://undraw.co/
 
-# Free SVG background pattern and design:
+# Free SVG background pattern and design
 * https://fffuel.co/sssquiggly/
 * https://bgjar.com/
 * https://gradient.style/
+
+# Gradient Builder
+* https://feralui.dev/gradients
 
 # Grid Generator
 * https://cssgridgenerator.io/
