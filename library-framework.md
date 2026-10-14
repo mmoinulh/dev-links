@@ -8,5 +8,9 @@
 * https://driverjs.com/
 * https://bootstraptour.com/
 
+
+# JSX UI library
+* https://www.hover.dev/
+
 # CSS Framework
 * https://picocss.com/
