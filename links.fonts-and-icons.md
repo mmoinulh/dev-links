@@ -7,6 +7,7 @@
 
 # Animated Icon
 * https://unicornicons.com/
+* https://animateicons.in/
 
 # Free icon
 * https://home.streamlinehq.com/
