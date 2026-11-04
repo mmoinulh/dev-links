@@ -14,3 +14,4 @@
 * https://www.flaticon.com/
 * https://heroicons.com/
 * https://www.thesvg.org/ - # Free SVG
+* https://www.icoon.co/ - 3D Icon
