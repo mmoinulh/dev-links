@@ -22,3 +22,5 @@
 21. https://onepagelove.com/
 23. https://uiverse.io/ - UI Library
 24. https://design.dev/ - component
+
+25. https://www.shadcndeck.com/ - NextJs components
